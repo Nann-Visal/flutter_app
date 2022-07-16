@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "675942578114",
+    "project_id": "etec-final-c31bf",
+    "storage_bucket": "etec-final-c31bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675942578114:android:402b1dd8b8d5226b4bc85b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_final_project_at_etec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675942578114-4qlcj9n04oj4bs369g17nu9475flr44b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_final_project_at_etec",
+            "certificate_hash": "c1055fa5f97329ef3db0222202b0cc3c368341d6"
+          }
+        },
+        {
+          "client_id": "675942578114-sjpv5mehpch706o5b4lad3tas8dqjuh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2kgnvpyBKK9rC69jUCo_c2Vq7mr6RYfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675942578114-sjpv5mehpch706o5b4lad3tas8dqjuh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
